@@ -7,6 +7,6 @@ Steps to run:
 3. Run "cargo run" to run it.
 
 Testing:
-You can test it with postman or CURL.
-Get cache data: GET 127.0.0.1:5000/get/{key}
-Set cache data: POST 127.0.0.1:5000/set/{key}/{value}
+1. You can test it with postman or CURL.
+2. Get cache data: GET 127.0.0.1:5000/get/{key}
+3. Set cache data: POST 127.0.0.1:5000/set/{key}/{value}
